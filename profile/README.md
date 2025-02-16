@@ -1,5 +1,5 @@
 <h1 align="center">
-  🚀 HKU Armstrong - Robotics & Innovation 🚀  
+  🚀 HKU ArmStrong - Robotics & Innovation 🚀  
 </h1>
 
 <h1 align="center">
@@ -12,14 +12,14 @@
 
 <p align="center">
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHKUArmstrong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Views&edge_flat=false"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHKUArmStrong&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Page+Views&edge_flat=false"/>
   </a>
 </p>
 
 ---
 
 ## 🦾 About Us
-HKU Armstrong is a **student-led interest group** at the **HKU Innovation Wing**, focused on **robotic arm projects**. We explore **robotics, automation, and AI** to build **cutting-edge robotic arm technologies**.
+HKU ArmStrong is a **student-led interest group** at the **HKU Innovation Wing**, focused on **robotic arm projects**. We explore **robotics, automation, and AI** to build **cutting-edge robotic arm technologies**.
 
 🔹 Engaging in **hands-on engineering projects**  
 🔹 Developing **robotic manipulation systems**  
