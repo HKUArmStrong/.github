@@ -23,7 +23,7 @@ HKU ArmStrong is a **student-led interest group** at the **HKU Innovation Wing**
 
 🔹 Engaging in **hands-on engineering projects**  
 🔹 Developing **robotic manipulation systems**  
-🔹 Joining in **robotics conferences**  
+🔹 Joining **robotics conferences**  
 🔹 Exploring **AI-driven automation**  
 
 📌 **Join us in pushing the boundaries of robotics innovation!**
